@@ -1,0 +1,22 @@
+{
+  "name": "sezane_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "md5": "^2.3.0",
+    "node-cron": "^3.0.0",
+    "puppeteer": "^9.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.25.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-plugin-react": "^7.23.2"
+  }
+}
